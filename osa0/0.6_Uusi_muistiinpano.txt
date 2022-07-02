@@ -1,0 +1,7 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin-->selain: Status Code 201
+
+note over selain:
+spa.js koodissa määritelty tietojen lähettämisestä palvelimelle
+ja estetty selaimen normaali toiminta ladata sivu uudelleen
+end note
